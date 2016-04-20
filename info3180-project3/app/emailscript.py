@@ -2,7 +2,7 @@ import smtplib
 
 def sendemail(toname,toemail,fromsubject,msg):
     fromname = 'Wishlist' 
-    fromemail  = 'toni-annfitzgerald@hotmail.com'
+    fromemail  = 'likemike303@gmail.com'
     message = """From: {} <{}>\nTo: {} <{}>\nSubject: {}\n\n{}"""
     
     messagetosend = message.format(
@@ -13,9 +13,9 @@ def sendemail(toname,toemail,fromsubject,msg):
                                  fromsubject,
                                  msg)
     
-    # Credentials (if needed)
-    username = 'toniannfitzgerald@gmail.com'
-    password = 'xqgqdjeitwfxdlac'
+    # Use your own credentials (if needed)
+    username = 'likemike303@gmail.com'
+    password = '   '
     
     # The actual mail send
     server = smtplib.SMTP('smtp.gmail.com:587')

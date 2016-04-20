@@ -87,14 +87,14 @@ def get_data(url):
     
     
 
-url1 = "http://www.ebay.com/itm/Apple-iPad-Air-2-64GB-Wi-Fi-4G-Cellular-Apple-SIM-9-7in-Silver-/252314650117?hash=item3abf200605:g:m8sAAOSwN81WDu3a"
-url2 = "http://www.ebay.com/itm/Unlocked-Dual-Sim-BLU-PHONE-Advance-5-0-Smartphone-US-GSM-White-/262304395053?hash=item3d128f6f2d:g:ntQAAOSwe7BWzOQU"
-url3 = "http://www.amazon.com/gp/product/B00THKEKEQ/ref=s9_ri_gw_g421_i1_r?ie=UTF8&fpl=fresh&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=desktop-4&pf_rd_r=1WEK74K6Y8MXQC6BSHDN&pf_rd_t=36701&pf_rd_p=2437869562&pf_rd_i=desktop"
-url4 = "http://www.amazon.com/gp/product/B012GC5DX8/ref=s9_qpp_gw_d38_g107_i1_r?ie=UTF8&fpl=fresh&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=desktop-1&pf_rd_r=0HX3HCEVK96HB5FDXMV0&pf_rd_t=36701&pf_rd_p=2437869742&pf_rd_i=desktop"
-url5 = "http://www.forever21.com/Product/Product.aspx?BR=f21&Category=dress&ProductID=2000187141&VariantID="
-url6 = "http://www.homedepot.com/p/Samsung-Chef-Collection-24-1-cu-ft-4-DoorFlex-French-Door-Refrigerator-in-Stainless-Steel-Counter-Depth-RF24J9960S4/206046683"
-url7 = "http://www.walmart.com/ip/46201753?findingMethod=wpa&wpa_qs=DzjAXPVfWOGVVepHE5ZfB_oDpEnKXg_YgvHURtkauAM&tgtp=2&cmp=-1&pt=hp&adgrp=-1&plmt=1145x345_B-C-OG_TI_8-20_HL_MID_HP&bkt=__bkt__&pgid=0&adUid=6abe87a7-e10e-47be-95ed-78acc0ced678&adiuuid=4389b3fd-2b89-49e7-b5c6-e21789ccce98&adpgm=hl&pltfm=desktop"
-url8 = "http://www.amazon.com/AmazonBasics-Lightweight-On-Ear-Headphones-Black/dp/B00NBEWB4U/ref=sr_1_1?s=electronics&srs=10112675011&ie=UTF8&qid=1459377481&sr=1-1"
+url1 = "http://www.amazon.com/s/ref=gw_in_av_ntlIg_ara-1?_encoding=UTF8&bbn=10445813011&rh=n%3A7141123011%2Cn%3A10445813011%2Cn%3A7147440011%2Cn%3A1040660%2Cn%3A1045024&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=desktop-unrec-col-3&pf_rd_r=0WRZMQ9Q02MNQAXYPBH3&pf_rd_t=36701&pf_rd_p=4301bdc7-c526-4439-9945-c3d07b830d38&pf_rd_i=desktop-unrec"
+url2 = "http://www.ebay.com/cln/ebaydealseditor/Moms-Night-Out/224588409015"
+url3 = "http://www.amazon.com/s/ref=nb_sb_ss_c_0_7?url=search-alias%3Dfashion-mens-watches&field-keywords=watches&sprefix=watches%2Cundefined%2C243"
+url4 = "http://www.ebay.com/itm/35-Piece-Auto-Car-Truck-SUV-Motorcycle-Emergency-Roadside-Kit-/201542299460"
+url5 = "http://www.ebay.com/itm/Smart-U8-Bluetooth-Wrist-Watch-Phone-Mate-For-iOS-iPhone-Samsung-Android-/301901798088?hash=item464abfdac8:m:mC_fmv85BHWXlw8mtoGRnlw&item=301901798088&var=&vxp=mtr"
+url6 = "http://www.amazon.com/Samsung-S7-Smartphone-International-Gold/dp/B01CJU9MJI/ref=sr_1_4?s=wireless&ie=UTF8&qid=1461126669&sr=1-4&keywords=samsung+s7+edge"
+url7 = "http://www.amazon.com/dp/B01D8YMW9Q?psc=1"
+url8 = "http://www.amazon.com/Selfie-Amya-Battery-iPhone-GalaxyS7/dp/B01D9D2Z1G/ref=sr_1_9?s=wireless&ie=UTF8&qid=1461126783&sr=1-9&keywords=iphone+7"
 
 
 #print get_data(url1)

@@ -6,34 +6,34 @@ var app = angular.module('wishlistApp', ['ngRoute', 'ui.bootstrap', 'ngAnimate']
 .config(function($routeProvider){
     $routeProvider
     .when('/',{
-        templateUrl:'static/templates/home.html'
+        templateUrl:'templates/home.html'
     })
     .when('/login',{
-        templateUrl: 'static/templates/login.html',
+        templateUrl: 'templates/login.html',
         controller: 'loginController'
     })
     .when('/logout',{
-        templateUrl: 'static/templates/home.html',
+        templateUrl: 'templates/home.html',
         controller: 'logoutController'
     })
     .when('/signup',{
-        templateUrl: 'static/templates/register.html',
+        templateUrl: 'templates/register.html',
         controller: 'registerController'
     })
     .when('/wishlist',{
-        templateUrl: 'static/templates/wishlist.html',
+        templateUrl: 'templates/wishlist.html',
         controller: 'wishlistController'
     })
     .when('/wishlist/add',{
-        templateUrl: 'static/templates/addItem.html',
+        templateUrl: 'templates/addItem.html',
         controller: 'addController'
     })
     .when('/wishlist/share',{
-        templateUrl: 'static/templates/share.html',
+        templateUrl: 'templates/share.html',
         controller: 'shareController'
     })
     .when('/user/:id/wishlist/shared_view',{
-        templateUrl: 'static/templates/shared_view.html',
+        templateUrl: 'templates/shared_view.html',
         controller: 'sharedViewController'
     })
     .otherwise({
